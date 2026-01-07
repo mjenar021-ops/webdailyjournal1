@@ -1,6 +1,6 @@
-//Muhammad Iqbal
-//A11.2024.15747
-//Pemrograman Berbasis Web 
+<!-- Muhammad Iqbal(A11.2024.15747)-->
+ <!-- Muhammad Iqbal(A11.2024.15747)-->
+  <!-- Muhammad Iqbal(A11.2024.15747)-->
 <?php 
 function upload_foto($File){    
 	$uploadOk = 1;
@@ -55,6 +55,6 @@ function upload_foto($File){
 	return $hasil;
 }
 ?>
-//Muhammad Iqbal
-//A11.2024.15747
-//Pemrograman Berbasis Web 
+<!-- Muhammad Iqbal(A11.2024.15747)-->
+ <!-- Muhammad Iqbal(A11.2024.15747)-->
+  <!-- Muhammad Iqbal(A11.2024.15747)-->

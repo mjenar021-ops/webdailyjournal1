@@ -1,6 +1,6 @@
-//Muhammad Iqbal
-//A11.2024.15747
-//Pemrograman Berbasis Web 
+<!-- Muhammad Iqbal(A11.2024.15747)-->
+ <!-- Muhammad Iqbal(A11.2024.15747)-->
+  <!-- Muhammad Iqbal(A11.2024.15747)-->
 <?php
 ///memulai session atau melanjutkjan session yang sudah ada
 session_start();
@@ -37,7 +37,7 @@ if(isset($_SESSION['username'])){
                         <div class="card-body">
                             <div class="text-center mb-3">
                                 <i class="bi bi-person-circle h1 display-4"></i>
-                                <p>My Daily Journal</p>
+                                <p>Welcome to My Daily Journal</p>
                                 <hr/>
                             </div>
                             <form action="" method="post" id="loginForm">
@@ -157,6 +157,6 @@ if(isset($_SESSION['username'])){
     ></script>
     </body>
 </html>
-//Muhammad Iqbal
-//A11.2024.15747
-//Pemrograman Berbasis Web 
+<!-- Muhammad Iqbal(A11.2024.15747)-->
+ <!-- Muhammad Iqbal(A11.2024.15747)-->
+  <!-- Muhammad Iqbal(A11.2024.15747)-->

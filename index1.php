@@ -1,6 +1,6 @@
-//Muhammad Iqbal
-//A11.2024.15747
-//Pemrograman Berbasis Web 
+<!-- Muhammad Iqbal(A11.2024.15747)-->
+ <!-- Muhammad Iqbal(A11.2024.15747)-->
+  <!-- Muhammad Iqbal(A11.2024.15747)-->
 
 <?php
 //menyertakan code dari file koneksi
@@ -884,6 +884,6 @@ include "koneksi.php";
     </script>
   </body>
 </html>
-//Muhammad Iqbal
-//A11.2024.15747
-//Pemrograman Berbasis Web 
+<!-- Muhammad Iqbal(A11.2024.15747)-->
+ <!-- Muhammad Iqbal(A11.2024.15747)-->
+  <!-- Muhammad Iqbal(A11.2024.15747)-->
