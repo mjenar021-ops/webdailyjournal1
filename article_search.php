@@ -1,6 +1,3 @@
-<!-- Muhammad Iqbal(A11.2024.15747)-->
- <!-- Muhammad Iqbal(A11.2024.15747)-->
-  <!-- Muhammad Iqbal(A11.2024.15747)-->
 <?php
     include "koneksi.php";
 
@@ -115,6 +112,3 @@ $hasil = $stmt->get_result();
 <?php
     }
 ?>
-<!-- Muhammad Iqbal(A11.2024.15747)-->
- <!-- Muhammad Iqbal(A11.2024.15747)-->
-  <!-- Muhammad Iqbal(A11.2024.15747)-->
